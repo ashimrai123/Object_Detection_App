@@ -1,0 +1,10 @@
+1. Install the required dependencies:
+
+2. pip install -r requirements.txt
+
+3. Place the YOLOv5 weights file (yolov5n.pt) in the models directory.
+
+4. Run the Django development server:
+python manage.py runserver
+
+5. Open your web browser and access the application at http://localhost:8000.
